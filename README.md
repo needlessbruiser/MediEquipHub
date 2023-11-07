@@ -23,8 +23,7 @@ For support, please visit [Melbourne Security Hire Support](https://www.hiresecu
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-## [https://www.hiresecuritymelbourne.com.au/](https://www.hiresecuritymelbourne.com.au/)
-
+## More Information
 - Webview URL: [https://www.hiresecuritymelbourne.com.au/](https://www.hiresecuritymelbourne.com.au/)
 
 © 2023 Melbourne Protectors
